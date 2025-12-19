@@ -1,0 +1,85 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "pico",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "TurnOffLedIntent",
+                    "slots": [],
+                    "samples": [
+                        "turn off the led",
+                        "turn the led off"
+                    ]
+                },
+                {
+                    "name": "PlaySongIntent",
+                    "slots": [],
+                    "samples": [
+                        "play a song",
+                        "put on a song"
+                    ]
+                },
+                {
+                    "name": "PlayMovieIntent",
+                    "slots": [],
+                    "samples": [
+                        "play a movie",
+                        "put on a movie"
+                    ]
+                },
+                {
+                    "name": "TurnOnLedIntent",
+                    "slots": [],
+                    "samples": [
+                        "turn on the led",
+                        "turn the led on"
+                    ]
+                },
+                {
+                    "name": "FlashLedIntent",
+                    "slots": [],
+                    "samples": [
+                        "flash the led",
+                        "flash",
+                        "make the led flash",
+                        "go crazy"
+                    ]
+                },
+                {
+                    "name": "HelloWorldIntent",
+                    "slots": [],
+                    "samples": [
+                        "hello",
+                        "how are you",
+                        "say hi world",
+                        "say hi",
+                        "hi",
+                        "say hello world",
+                        "say hello"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
