@@ -1,0 +1,1 @@
+In this project, I created Alexa voice command that are passed to the AWS server and registerd through MQTT by a Raspberry Pi Pico w board, which will send a GET request to a server that will play, deppending on the command, a random song or movie from it's storage
